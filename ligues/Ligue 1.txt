@@ -1,0 +1,78 @@
+# Une ligne par joueur. Les titres entre crochets créent des groupes.
+# Le (R) des recrues est ignoré automatiquement.
+
+[Pro]
+Shane Pinto
+Anze Kopitar
+Justin Hryckowian
+Tanner Laczynski
+Nick Suzuki
+Kyle Palmieri
+Danila Yurov
+Chris Wagner
+Patrick Kane
+Matt Luff
+Cole Caufield
+Brandon Saad
+Vincent Iorio
+Nikolas Matinpalo
+Nick Jensen
+Jack St. Ivany
+Josh Manson
+Dougie Hamilton
+Cole Hutson
+Alex Nedeljkovic
+Devin Cooley
+
+[Farm]
+Jakub Demek
+Garrett Pilon
+Clark Bishop
+Dominic Toninato
+Carl Grundstrom
+Brendan Lemieux
+Anton Blidh
+Alex Beaucage
+Maxwell Crozier
+Jonathan Aspirot
+Joe Hicketts
+Ethan Prow
+David Reinbacher
+Chad Ruhwedel
+Alexander Peters
+Artur Akhtyamov
+Kevin Poulin
+Taylor Gauthier
+
+[Espoirs]
+Bryce Pickford
+Caleb Malhotra
+Calen Addison
+Daniil Sotishvili
+Finn Harding
+Ian Scott
+Jachym Kondelik
+Jasper Patrikainen
+Jere Virolainen
+Joshua Eernisse
+Julien Pelletier
+Julio Billia
+Kurban Limatov
+Luca Munzenberger
+Marcus Almquist
+Markus Niemelainen
+Markus Phillips
+Max Paddock
+Michael Hage
+Oliver Turner
+Owen Conrad
+Quinn Olson
+Roman Kantserov
+Roope Taponen
+Shea Busch
+Tanner Henricks
+Victor Ostman
+Viggo Björck
+Viljami Juusola
+Vojtech Hradec
+Xavier Bernard

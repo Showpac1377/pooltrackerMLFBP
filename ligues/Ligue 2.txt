@@ -1,0 +1,61 @@
+# Une ligne par joueur. Les titres entre crochets créent des groupes.
+# Les marques (R), (C), (A) sont ignorées automatiquement.
+
+[Pro]
+Logan Cooley
+Ryan McLeod
+Jamie Benn
+Blake Lizotte
+Wyatt Johnston
+Gabriel Vilardi
+Dylan Holloway
+Kyle Connor
+Taylor Hall
+Jason Zucker
+Simon Holmstrom
+Brandon Saad
+Matthew Schaefer
+Mattias Ekholm
+Filip Hronek
+Jonas Brodin
+Jalen Chatfield
+Zach Whitecloud
+Nick Jensen
+Logan Thompson
+Eric Comrie
+
+[Farm]
+Ryan Carpenter
+Tyson Jost
+Georgii Merkulov
+David Gustafsson
+Nathan Smith
+Jacob Doty
+Jakub Stancl
+Milo Roelens
+Josh Lopina
+Emmitt Finnie
+Dominic James
+Logan Morrison
+Philip Tomasino
+Jonah Gadjovich
+Mikael Pyyhtia
+Chris Terry
+Braeden Bowman
+Julien Gauthier
+Olivier Nadeau
+Hunter Drew
+Nate Schmidt
+Colin Miller
+Kaedan Korczak
+Maxwell Crozier
+Elias Salomonsson
+Travis Mitchell
+Jeremie Poirier
+Tanner Molendyk
+Ty Murchison
+Luke Rowe
+David Rittich
+Dennis Hildeby
+Carl Lindbom
+Connor Ungar
