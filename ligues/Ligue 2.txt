@@ -81,4 +81,4 @@ Sascha Boumedienne
 Stepan Gorbunov
 Timur Kol
 Vojtech Hradec
-Yegor Zavragin
+Egor Zavragin
